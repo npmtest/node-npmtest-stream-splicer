@@ -1,4 +1,7 @@
-# test coverage for  [stream-splicer (v2.0.0)](https://github.com/substack/stream-splicer)  [![npm package](https://img.shields.io/npm/v/npmtest-stream-splicer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stream-splicer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stream-splicer.svg)](https://travis-ci.org/npmtest/node-npmtest-stream-splicer)
+# npmtest-stream-splicer
+
+#### basic test coverage for  [stream-splicer (v2.0.0)](https://github.com/substack/stream-splicer)  [![npm package](https://img.shields.io/npm/v/npmtest-stream-splicer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stream-splicer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stream-splicer.svg)](https://travis-ci.org/npmtest/node-npmtest-stream-splicer)
+
 #### streaming pipeline with a mutable configuration
 
 [![NPM](https://nodei.co/npm/stream-splicer.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/stream-splicer)
